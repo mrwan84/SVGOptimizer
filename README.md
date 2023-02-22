@@ -11,3 +11,17 @@ this project created using Svelte + Vite.
 [VS Code](https://code.visualstudio.com/) + [Svelte](https://marketplace.visualstudio.com/items?itemName=svelte.svelte-vscode).
 
 ### see too: [svgomg](https://github.com/jakearchibald/svgomg)
+
+
+### Install dependencies:
+
+```sh
+npm install
+```
+
+Run dev server:
+
+```sh
+npm run dev
+```
+
